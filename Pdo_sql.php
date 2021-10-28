@@ -1,6 +1,6 @@
 <?php
 
-    # Crear varaiable de conexion
+    # Crear variable de conexion
     class Conexion {
         private $servidor = "localhost";
         private $base_datos = "db_prueba";
